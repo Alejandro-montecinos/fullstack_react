@@ -24,12 +24,13 @@ Antes de usar este proyecto, asegúrate de tener instalado:
 ```bash
 git clone https://github.com/Alejandro-montecinos/fullstack_react.git
 ```
-2. Ingresa a la carpeta del proyecto:
 
+El comando " dir " es para listar las carpetas en el cmd
 ```bash
-
 dir 
-
+```
+2. Ingresa a la carpeta del proyecto:
+```bash
 cd nombre-del-proyecto
 
 ```
@@ -56,7 +57,7 @@ Extraer y usar cualquier componente de Bootstrap React.
 Consultar la documentación oficial: [https://react-bootstrap.netlify.app](https://react-bootstrap.netlify.app)  
 
 ## Manejo de las ramas
- 1. Prmero asegurate de estar en la rama developer
+ 1. Primero asegurate de estar en la rama developer
  ```bash
     git checkout developer
 
